@@ -1,0 +1,13 @@
+.ingredient {
+  margin-bottom: 5px;
+}
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+  background: mistyrose;
+}
+
+.img-preview {
+  max-height: 300px;
+  padding-bottom: 10px;
+}
